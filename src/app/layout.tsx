@@ -20,7 +20,7 @@ export default function RootLayout({
         <head>
             <Script
                 src="https://umami.nuknal.com/script.js"
-                data-website-id="07cdda53-06b3-447c-8c30-1bceab22ac91"
+                data-website-id="1caa3149-0a7d-46f9-a003-b2beb5eede85"
             />
         </head>
         <body className={inter.className}>{children}</body>
